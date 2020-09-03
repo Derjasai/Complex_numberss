@@ -1,5 +1,4 @@
 # Complex_numbers
-# Calculadora de Complejos
 El proyecto consiste en una calculadora de numeros complejos donde se puede hacer:
 • Suma
 • Resta
